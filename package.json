@@ -1,22 +1,22 @@
 {
-  "name": "Aquabot-MD",
+  "name": "👑ARUNODMANOHARAOFFICIALBOT👑",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
+  "description": "ARUNODMANOHARAOFFICIALBOT happy for whatsapp.",
   "main": "/aquabot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://github.com/arunodmanoharaofficialbot/AQUABOT-MD.git"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "arunodmanoharaofficial",
+  "developer": "ARUNODMANOHARAOFFICIALBOT dev team .INC",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+    "url": "https://github.com/arunodmanoharaofficialbot/AQUABOT-MD//issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://github.com/arunodmanoharaofficialbot/AQUABOT-MD/",
   "dependencies": {
    
     "@adiwajshing/baileys": "^4.0.1",
